@@ -1,0 +1,25 @@
+[/]
+button-padding=5
+custom-menu-button-icon-size=15.0
+dash-to-panel-standalone=false
+distro-icon=5
+menu-background-color='rgba(48,48,49,0.98)'
+menu-border-color='rgb(60,60,60)'
+menu-button-appearance='Icon'
+menu-button-icon='Distro_Icon'
+menu-button-position-offset=0
+menu-foreground-color='rgb(223,223,223)'
+menu-item-active-bg-color='rgb(25,98,163)'
+menu-item-active-fg-color='rgb(255,255,255)'
+menu-item-hover-bg-color='rgb(21,83,158)'
+menu-item-hover-fg-color='rgb(255,255,255)'
+menu-layout='Default'
+menu-position-alignment=0
+menu-separator-color='rgba(255,255,255,0.1)'
+override-menu-theme=true
+pinned-apps=[{'id': 'firefox.desktop'}, {'id': 'org.gnome.Nautilus.desktop'}, {'id': 'org.gnome.Terminal.desktop'}, {'id': 'gnome-extensions prefs arcmenu@arcmenu.com', 'name': 'ArcMenu Settings', 'icon': 'ArcMenu_ArcMenuIcon'}, {'id': 'firefox_firefox.desktop'}, {'id': 'teams-for-linux_teams-for-linux.desktop'}]
+position-in-panel='Left'
+prefs-visible-page=0
+recently-installed-apps=['org.gnome.Weather.desktop', 'debian-xterm.desktop', 'debian-uxterm.desktop', 'rxvt-unicode.desktop', 'Alacritty.desktop', 'kitty.desktop']
+search-entry-border-radius=(true, 25)
+show-activities-button=false
